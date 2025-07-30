@@ -88,3 +88,7 @@ Here you just need set the desired tty number, like 1 or 2(not recommended if yo
 ```bash
 TTY=*tty number*
 ```
+
+Now, just save and run it. Make sure to use chmod +x on the script.
+
+Have fun!
