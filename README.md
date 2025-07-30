@@ -7,6 +7,7 @@ Launches a video as overlay, wait 14 seconds, then changes to the desired TTY se
 First, you need to install the dependencies:
 
 [mpv](https://github.com/mpv-player/mpv).
+
 [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots).
 
 #### 1. Installing mpvpaper
