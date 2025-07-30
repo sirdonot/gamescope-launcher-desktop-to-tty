@@ -4,6 +4,8 @@ Launches a video as overlay, wait 14 seconds, then changes to the desired TTY se
 
 ### Instructions
 
+[mpv](https://github.com/mpv-player/mpv).
+
 #### 1. Install mpvpaper
 
 ##### Clone | Build | Install:
@@ -19,7 +21,7 @@ ninja -C build
 ninja -C build install
   ```
 
-##### Using a package manager
+##### Using a package manager:
 
 For this example, arch will be used to install mpvpaper.
 
